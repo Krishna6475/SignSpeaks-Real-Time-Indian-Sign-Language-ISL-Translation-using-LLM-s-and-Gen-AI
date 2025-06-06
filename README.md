@@ -72,8 +72,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 📩 Contact & Acknowledgments  
 👤 **Chinthagunta Vamshi Krishna**  
-✉️ Email: [your-email@example.com](mailto:vamshikrishna6475@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vamshi-krishna-chinthagunta-73321625b/)  
+✉️ Email: [my_mail](mailto:vamshikrishna6475@gmail.com)  
+🔗 LinkedIn: [my LinkedIn Profile](https://www.linkedin.com/in/vamshi-krishna-chinthagunta-73321625b/)  
 
 💡 **Acknowledgments:**  
 - Inspired by **research in AI-driven ISL translation**.  
